@@ -1,11 +1,10 @@
 <?xml version='1.1' encoding='utf-8'?>
 <widget xmlns="http://www.w3.org/ns/widgets" version="1.2" id="https://addons.opera.com/addons/extensions/details/otweetr/" href="https://addons.opera.com/extensions/details/otweetr/">
-  <name>OOOOO</name>
+  <name>Twitter Button</name>
   <icon src="icon.png"/>
   <feature name="opera:share-cookies" required="false"/>
   <access origin="*" subdomains="true"/>
   <license>Copyright 2011 geeneeyes. All rights reserved.</license>
-  <author href="http://pramod.ghuge.com" email="geeneeyes@gmail.com">geeneeyes</author>
-  <update-description href="https://extension-updates.opera.com/api/w3c-wd1/update/6fd940f9-9235-4f12-af36-d439fd032d36/"/>
-  <description xml:lang="en">With oTweetr you can easily update twitter from Opera. Click it, type your text and tweet it.</description>
+  <author href="http://my.opera.com/metude" email="metude@myopera.com">metude</author>
+  <description xml:lang="en">With Twitter Button you can easily update twitter from Opera. Click it, type your text and tweet it.</description>
 </widget>
